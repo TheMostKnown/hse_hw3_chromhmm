@@ -27,4 +27,4 @@ Control            | wgEncodeBroadHistoneDnd41ControlStdAlnRep2.bam
 
 <img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/cellmaker_img.jpg width=500/>  
 
-
+## Выдача ChromHMM
