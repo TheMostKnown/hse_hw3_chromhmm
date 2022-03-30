@@ -28,3 +28,10 @@ Control            | wgEncodeBroadHistoneDnd41ControlStdAlnRep2.bam
 <img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/cellmaker_img.jpg width=500/>  
 
 ## Выдача ChromHMM
+Ниже будут приаедены фотографии из HTML-файла, полученного от *ChromHMM*. Полная выдача находится в папке *data*.  
+
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/data/ChromHMM_output/emissions_10.png width=300/>  
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/data/ChromHMM_output/transitions_10.png width=300/>  
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/data/ChromHMM_output/Dnd41_10_overlap.png width=300/>  
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/data/ChromHMM_output/Dnd41_10_RefSeqTSS_neighborhood.png width=300/>  
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/data/ChromHMM_output/Dnd41_10_RefSeqTES_neighborhood.png width=300/>  
