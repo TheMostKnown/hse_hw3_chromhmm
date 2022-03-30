@@ -21,3 +21,10 @@ H3K9me3            | wgEncodeBroadHistoneDnd41H3k09me3AlnRep2.bam
 H4K20me1           | wgEncodeBroadHistoneDnd41H4k20me1AlnRep2.bam
 Control            | wgEncodeBroadHistoneDnd41ControlStdAlnRep2.bam
 
+## Содержание *cellmarkfiletable*
+
+Ниже представленно содержимое файла *cellmarkfiletable.txt*, также он может быть найден в папке *data*:
+
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/cellmaker_img.jpg width=500/>  
+
+
