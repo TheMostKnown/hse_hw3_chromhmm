@@ -56,3 +56,10 @@ Control            | wgEncodeBroadHistoneDnd41ControlStdAlnRep2.bam
 
 <img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/epigen_1.jpg width=500/>  
 <img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/epigen_2.jpg width=500/>  
+
+## Бонусная часть
+
+Код бонусной части представлен в колаб-ноутбуке. Реузьтат представлен на скриншоте ниже:
+
+![image](https://user-images.githubusercontent.com/65551462/160953765-77f5bde7-958b-4ffe-b3dd-97cbef665cf1.png)  
+
