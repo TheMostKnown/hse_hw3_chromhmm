@@ -52,3 +52,7 @@ Control            | wgEncodeBroadHistoneDnd41ControlStdAlnRep2.bam
 8         | Heterochromatin    | *Репрессированный гетерохроматин*, имеет сигнал на *H3K9me3*, *H3K79me2* и *H4K20me1*; ассоциирован с ядерной ламиной.
 9         | Heterochromatin    | *Репрессированный гетерохроматин*, не имеет сигнала на метках, ассоциирован с ядерной ламиной.
 10        | Heterochromatin    | *Репрессированный гетерохроматин*, имеет сигнал на *H3K79me3* и *H3K36me3*; ассоциирован с ядерной ламиной.
+
+
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/epigen_1.jpg width=500/>  
+<img src=https://github.com/TheMostKnown/hse_hw3_chromhmm/blob/main/img/epigen_2.jpg width=500/>  
